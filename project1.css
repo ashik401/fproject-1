@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    
+    border: solid rgba(21, 170, 101, 0.89) 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+   
+}
+
+.clear{
+
+    clear: both;
+}
+.firstname{
+
+    font-size: 60px;
+    margin-LEFT: 30PX;
+    padding-TOP: 20PX;
+    font-weight: bolder;
+}
+.lastname{
+
+    font-size: 40px;
+    margin-LEFT: 30PX;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.contact{
+
+    margin-top: 50px;
+
+}
+
+.contactbar{
+
+text-decoration: none;
+color: black;
+font-weight: bolder;
+font-size: larger;
+
+
+margin-LEFT: 30PX;
+float: left;
+padding-right: 90px;
+}
+.contactbar p{
+
+    padding-bottom: 15px;
+}
+.contactinfo p :hover{
+
+text-decoration: underline;
+color: tomato;
+
+}
+.contactinfo  a{
+
+text-decoration: none;
+
+
+}
+.contactinfo  p{
+
+    padding-bottom: 15px;
+   font-size: 20px;
+   
+    
+    
+    
+    }
+.left
+{
+    float: left;
+    width: 40%;
+}
+.right{
+
+    float: right;
+    width: 60%;
+    background-color: black;
+    height: 739px;
+}
+.ex{
+
+    color:rgb(68, 199, 127);
+    font-size: 20px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+
+}
+.companyname {
+    color:gray;
+    padding-left: 30px;
+    float:left;
+
+
+
+}
+.companyname h3{
+    padding-bottom: 10px;
+    color:whitesmoke;
+    padding-right: 100px;
+}
+
+.fontend{
+
+    color:whitesmoke;
+
+    float: left;
+ 
+}
+.nameinfo {
+
+    color: gray;
+    padding-left: 30px;
+    float: left;
+    
+}
+.fontinfo
+{
+    color:gray;
+    float: left;
+    padding-left: 260px;
+    margin-top:-20px;
+    
+    
+}
+.companyname2 h3{
+    padding-top: 100px;
+    color:whitesmoke;
+    padding-right: 100px;
+    padding-left: 30px;
+    float: left;
+    padding-bottom: 10px;
+}
+.fontend2{
+    color:whitesmoke;
+
+    float: left;
+    padding-top: 100px;
+}
+.firstname{
+
+    font-size: 40px;
+}
+
+
+
+
+
